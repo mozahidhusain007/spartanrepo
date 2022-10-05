@@ -1,2 +1,2 @@
-grouping
+grouping for different b/w two working directory with staging directory
 
